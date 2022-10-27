@@ -44,9 +44,9 @@ docusaurus:
     static_assets:
       - Template-chapter: /build/make_assets/content/chapters/template-chapter/lecture/_site
     config_meta:
-      title: Template Repo
-      url: http://localhost/
-      baseUrl: /oer-template/
+      title: APD
+      url: raduciobanu.github.io
+      baseUrl: /apd/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
