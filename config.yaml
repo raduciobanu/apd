@@ -44,7 +44,7 @@ docusaurus:
     static_assets:
       - Template-chapter: /build/make_assets/content/chapters/template-chapter/lecture/_site
     config_meta:
-      title: APD
+      title: apd
       url: raduciobanu.github.io
       baseUrl: /apd/
       onBrokenLinks: warn
