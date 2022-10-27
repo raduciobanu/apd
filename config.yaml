@@ -46,7 +46,7 @@ docusaurus:
     config_meta:
       title: apd
       url: raduciobanu.github.io
-      baseUrl: /
+      baseUrl: /apd/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
